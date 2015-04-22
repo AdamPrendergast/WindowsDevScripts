@@ -1,0 +1,1 @@
+powershell.exe -noexit -command "cd 'c:\projects\project-path'; grunt watch"
